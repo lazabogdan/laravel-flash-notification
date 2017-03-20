@@ -1,0 +1,21 @@
+{
+    "name": "lazabogdan/laravel-flash-notification",
+    "description": "",
+    "authors": [
+        {
+            "name": "Laza Bogdan",
+            "email": "laza.bogdan@macro-net.ro"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/session": "5.4.*",
+        "illuminate/support": "5.4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "LazaBogdan\\FlashNotification": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
