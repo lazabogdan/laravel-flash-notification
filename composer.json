@@ -1,6 +1,6 @@
 {
     "name": "lazabogdan/laravel-flash-notification",
-    "description": "",
+    "description": "Utility package for displaying flash notifications in Laravel.",
     "authors": [
         {
             "name": "Laza Bogdan",
